@@ -7,7 +7,7 @@
 - Repo nhóm: `K5-L3A-DAY13-04552-LaunchEconomics`
 - URL repo: https://github.com/ducminhnwork/K5-L3A-DAY13-04552-LaunchEconomics
 - Nhánh nộp: `main`
-- Commit chốt: `fe491e9`
+- Commit chốt: `d77898c`
 
 ## Thành viên
 
