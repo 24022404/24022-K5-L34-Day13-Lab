@@ -29,7 +29,7 @@ Nhiệm vụ C (CP3) · Bảng lỗi và cách khắc phục:
 
 ## 5. Công cụ AI đã dùng
 
-- Dùng hỗ trợ việc xác định nhãn 1 số trường hợp.
+- Dùng Claude để giải thích định nghĩa 5 loại PAIR và cách phân biệt; nhãn từng ca do tôi tự quyết, AI không xem hay sửa nhãn trước khi so
 - Dùng Claude hỗ trợ làm bảng khắc phục 
 
 ## 6. Tự đánh giá
