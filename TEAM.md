@@ -7,7 +7,7 @@
 - Repo nhóm: `K5-L3A-DAY13-04552-LaunchEconomics`
 - URL repo: https://github.com/ducminhnwork/K5-L3A-DAY13-04552-LaunchEconomics
 - Nhánh nộp: `main`
-- Commit chốt: `d77898c`
+- Commit chốt: `4519818`
 
 ## Thành viên
 
@@ -35,7 +35,7 @@ Bốn vai của lab:
 | Người 2 | Gắn nhãn độc lập 20 ca lỗi; sau khi cả hai bộ nhãn đã chốt, đối chiếu đồng thuận và hoàn thiện bảng phát hiện, khắc phục | `report/team/nhan_nv2.md`, `report/team/bang_loi.md` |
 | Người 3 | Gắn nhãn độc lập 20 ca lỗi; quản lý thông tin nhóm; tổng hợp báo cáo nhóm; chấm hồ sơ nhóm kế tiếp tại Gate 2a | `report/team/nhan_nv3.md`, `TEAM.md`, `report/team/group_report.md`, `report/team/phieu_cham.md` |
 
-Hai người gắn nhãn làm độc lập và không xem bộ nhãn của nhau trước khi cả hai đã chốt. Đã merge phần A, B, D, E và hai bộ nhãn; bảng thống nhất và khắc phục C đã hoàn tất (commit `d77898c`).
+Hai người gắn nhãn làm độc lập và không xem bộ nhãn của nhau trước khi cả hai đã chốt. Đã merge phần A, B, D, E và hai bộ nhãn; bảng thống nhất và khắc phục C đã hoàn tất (commit `4519818`).
 
 ### Bằng chứng đóng góp đã có
 

@@ -25,7 +25,7 @@ Nhiệm vụ C (CP3) · Bảng lỗi và cách khắc phục:
 
 - `report/team/nhan_nv2.md`: bộ nhãn độc lập, commit `NV2: gan nhan doc lap 20 ca loi` trên nhánh `nv2-nhan`.
 - `report/team/bang_loi.md`: bảng khắc phục 5 ca, commit `NV2: bang khac phuc 5 ca`.
-- Commit so nhãn và tỉ lệ đồng thuận (`bang_loi.md` hoàn chỉnh): `d77898c`.
+- Commit so nhãn và tỉ lệ đồng thuận (`bang_loi.md` hoàn chỉnh): `4519818`.
 
 ## 5. Công cụ AI đã dùng
 
