@@ -14,7 +14,7 @@
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Nguyễn Đức Minh | 2A202603563 | 26ai.minhnd3@vinuni.edu.vn | ducminhnwork | Người viết code và kiểm số; phụ trách A, B, D, E |
-|   2 | Bùi Xuân Thành | 2A202603521 | **[CHỜ THÀNH VIÊN XÁC NHẬN]** | **[CHỜ THÀNH VIÊN XÁC NHẬN]** | Người gắn nhãn 1; phụ trách bộ nhãn độc lập và bảng khắc phục C |
+|   2 | Bùi Xuân Thành | 2A202603521 | 26ai.thanhbx@vinuni.edu.vn | KDAGRAGAS | Người gắn nhãn 1; phụ trách bộ nhãn độc lập và bảng khắc phục C |
 |   3 | Đàm Tuấn Linh | 2A202603624 | 26ai.linhdt3@vinuni.edu.vn | damlinh820 | Người gắn nhãn 2; phụ trách thông tin nhóm, báo cáo nhóm và phiếu hội đồng |
 |   4 |  |  |  |  |  |
 
@@ -54,3 +54,21 @@ report/team/MSSV_HoTen.md
 Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 Mỗi thành viên tự xác nhận đóng góp trong báo cáo cá nhân tương ứng. Giữ nguyên file `report/team/MSSV_HoTen.md` để làm mẫu.
+## BuiXuanThanh-2A202603521
+
+### Phần việc phụ trách
+
+- Nhiệm vụ C (CP3): gắn nhãn độc lập 20 ca lỗi (bộ nhãn 2) theo năm loại Google PAIR.
+- Bảng khắc phục 5 ca, mỗi loại một ca, trong `report/team/bang_loi.md`.
+- So hai bộ nhãn, tính tỉ lệ đồng thuận, ghi quy tắc phân biệt cho các ca không trùng.
+
+### Đóng góp cụ thể
+
+- Gắn nhãn 20 ca trong 8 phút (15:01–15:09), không trao đổi với người gắn nhãn còn lại.
+- Chọn ca 1, 20, 18, 13, 17 cho bảng khắc phục; mỗi dòng có event, ngưỡng, tần suất và một vai trò phụ trách.
+- Điền bảng hai bộ nhãn và tỉ lệ đồng thuận: ... / 20 (sau khi merge).
+
+### Bằng chứng
+
+- `report/team/nhan_nv2.md`, `report/team/bang_loi.md`, `report/team/2A202603521_BuiXuanThanh.md`
+- Các commit trên nhánh `nv2-nhan`: `NV2: gan nhan doc lap 20 ca loi`, `NV2: bang khac phuc 5 ca`, `NV2: bao cao ca nhan va bang khac phuc`
