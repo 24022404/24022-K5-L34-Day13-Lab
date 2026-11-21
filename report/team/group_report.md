@@ -29,8 +29,8 @@ Nhóm xây dựng hồ sơ launch v0 cho trợ lý hoàn phí LogiX-VN để đ�
 - Ba yếu tố nhạy nhất: làm lại gấp đôi tăng 51,8%; xem lại gấp đôi tăng 40,7%; lương tăng 25% làm chi phí tăng 23,1% [simulated]. Xem lại 100% tốn 11.743–12.415 đ/việc, bằng 0,98–1,03 lần nhân viên tự làm [simulated].
 - Pilot chỉ gồm `noi_dia` và `hang_nang`, chia 20 nhân viên trợ lý và 20 đối chứng. Chọn mức chênh 6 điểm, cần 859 yêu cầu hiệu dụng/nhóm và ít nhất 299 yêu cầu/người (DE 6,96); nếu tác động thật chỉ 5 điểm thì power khoảng 0,64.
 - Chỉ số trong đợt chạy thử: chính 82,83% (994/1.200); bỏ qua gợi ý 27,12% (48/177); mở lại 7 ngày 4,25% (51/1.200). Đây là số quan sát, chưa chứng minh mức cải thiện do trợ lý.
-- Hai bộ nhãn đã commit trùng 18/20 ca = 90%; khác ca 8 và 13. Đây là mức trùng ban đầu; Người 2 còn phải ghi quy tắc phân biệt, nhãn thống nhất và bảng khắc phục vào `bang_loi.md`.
-- Hồ sơ launch đề xuất **Go có điều kiện** cho pilot: ký chấp nhận đánh đổi cỡ mẫu, bật event đo thời gian thật, giảm xem lại theo bậc, loại hai loại yêu cầu ngoài phạm vi và sửa lỗi hệ thống trước 2026-12-14; quyết định pilot vào 2027-01-15. Mục lỗi hiện còn trạng thái chưa hoàn tất.
+- Hai bộ nhãn đã commit trùng 18/20 ca = 90%; khác ca 8 và 13. Hai ca lệch đã thống nhất theo nguyên nhân gốc (ca 8 Hệ thống, ca 13 Giới hạn hệ thống); quy tắc và bảng khắc phục 5 ca nằm trong `bang_loi.md`.
+- Hồ sơ launch đề xuất **Go có điều kiện** cho pilot: ký chấp nhận đánh đổi cỡ mẫu, bật event đo thời gian thật, giảm xem lại theo bậc, loại hai loại yêu cầu ngoài phạm vi và sửa lỗi hệ thống trước 2026-12-14; quyết định pilot vào 2027-01-15.
 - Kết quả duyệt chéo nhận từ hội đồng: **[CHỜ PHIÊN GATE 2a]**.
 
 
