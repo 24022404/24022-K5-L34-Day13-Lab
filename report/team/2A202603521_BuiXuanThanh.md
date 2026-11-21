@@ -36,4 +36,4 @@ Nhiệm vụ C (CP3) · Bảng lỗi và cách khắc phục:
 
 - Hoàn thành phần gắn nhãn độc lập đúng thời gian và đủ 20 ca, đủ năm loại.
 - Điều học được: gắn nhãn theo nguyên nhân gốc chứ không theo chỗ cần sửa; lỗi Ngầm khác lỗi Hệ thống ở chỗ không ai nhận ra cho tới khi kiểm tra.
-- Cần cải thiện: ...
+- Cần cải thiện việc xác định nhãn trong từng trường hợp
