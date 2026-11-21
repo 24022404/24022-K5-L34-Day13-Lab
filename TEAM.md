@@ -13,9 +13,9 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | **[ĐIỀN]** | **[ĐIỀN]** | **[ĐIỀN]** | **[ĐIỀN]** | Người viết code và kiểm số; phụ trách A, B, D, E |
-|   2 | **[ĐIỀN]** | **[ĐIỀN]** | **[ĐIỀN]** | **[ĐIỀN]** | Người gắn nhãn 1; phụ trách bộ nhãn độc lập và bảng khắc phục C |
-|   3 | **[ĐIỀN]** | **[ĐIỀN]** | **[ĐIỀN]** | **[ĐIỀN]** | Người gắn nhãn 2; phụ trách thông tin nhóm, báo cáo nhóm và phiếu hội đồng |
+|   1 | Nguyễn Đức Minh | 2A202603563 | 26ai.minhnd3@vinuni.edu.vn | ducminhnwork | Người viết code và kiểm số; phụ trách A, B, D, E |
+|   2 | Bùi Xuân Thành | 2A202603521 | **[CHỜ THÀNH VIÊN XÁC NHẬN]** | **[CHỜ THÀNH VIÊN XÁC NHẬN]** | Người gắn nhãn 1; phụ trách bộ nhãn độc lập và bảng khắc phục C |
+|   3 | Đàm Tuấn Linh | 2A202603624 | 26ai.linhdt3@vinuni.edu.vn | damlinh820 | Người gắn nhãn 2; phụ trách thông tin nhóm, báo cáo nhóm và phiếu hội đồng |
 |   4 |  |  |  |  |  |
 
 Bốn vai của lab:
@@ -35,7 +35,13 @@ Bốn vai của lab:
 | Người 2 | Gắn nhãn độc lập 20 ca lỗi; sau khi cả hai bộ nhãn đã chốt, đối chiếu đồng thuận và hoàn thiện bảng phát hiện, khắc phục | `report/team/nhan_nv2.md`, `report/team/bang_loi.md` |
 | Người 3 | Gắn nhãn độc lập 20 ca lỗi; quản lý thông tin nhóm; tổng hợp báo cáo nhóm; chấm hồ sơ nhóm kế tiếp tại Gate 2a | `report/team/nhan_nv3.md`, `TEAM.md`, `report/team/group_report.md`, `report/team/phieu_cham.md` |
 
-Hai người gắn nhãn làm độc lập và không xem bộ nhãn của nhau trước khi cả hai đã chốt. Đóng góp thực tế và mã commit được cập nhật sau khi các nhánh đã merge.
+Hai người gắn nhãn làm độc lập và không xem bộ nhãn của nhau trước khi cả hai đã chốt. Đã merge phần A, B, D, E và hai bộ nhãn; bảng thống nhất và khắc phục C còn chờ Người 2, phiếu hội đồng còn chờ hồ sơ nhóm được chấm.
+
+### Bằng chứng đóng góp đã có
+
+- Nguyễn Đức Minh: commit `04cec8a` hoàn thiện A, B, D, E; báo cáo cá nhân `report/team/2A202603563_NguyenDucMinh.md`.
+- Bùi Xuân Thành: commit `0ea93ce` ghi bộ nhãn độc lập; báo cáo cá nhân `report/team/2A202603521_BuiXuanThanh.md` hiện vẫn là mẫu, cần thành viên tự hoàn thiện.
+- Đàm Tuấn Linh: commit `499c9f3` ghi bộ nhãn độc lập và khung hồ sơ; merge vào main tại `51862a3`; báo cáo cá nhân `report/team/2A202603624_DamTuanLinh.md`.
 
 ## Cá nhân
 
@@ -47,18 +53,4 @@ report/team/MSSV_HoTen.md
 
 Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
-Sao chép mục dưới đây cho từng thành viên.
-
-## HoVaTen-MSSV
-
-### Phần việc phụ trách
-
--
-
-### Đóng góp cụ thể
-
--
-
-### Bằng chứng
-
--
+Mỗi thành viên tự xác nhận đóng góp trong báo cáo cá nhân tương ứng. Giữ nguyên file `report/team/MSSV_HoTen.md` để làm mẫu.

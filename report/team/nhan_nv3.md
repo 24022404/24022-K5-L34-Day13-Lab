@@ -2,7 +2,7 @@
 
 ## Cam kết thực hiện độc lập
 
-- Người gắn nhãn: Đàm Tuấn Linh
+- Người gắn nhãn: Đàm Tuấn Linh (2A202603624)
 - Thời điểm bắt đầu: 14h30 21/11/2026
 - Thời điểm chốt bộ nhãn: 15h 21/11/2026
 - Tôi chỉ đọc 20 ca lỗi trong `docs/Ngay13_Lab13_De_bai_hoc_vien.docx` và định nghĩa năm loại lỗi.
@@ -44,4 +44,4 @@ Gắn theo nguyên nhân gốc, không theo vị trí cần sửa. Mỗi ca ch�
 - [x] Mỗi ca chỉ có một nhãn thuộc đúng năm loại cho phép.
 - [x] Lý do dựa trên nguyên nhân gốc, không chỉ nêu cách khắc phục.
 - [ ] Chưa xem hoặc trao đổi bộ nhãn của Người 2.
-- [ ] Đã commit bộ nhãn trước khi đối chiếu.
+- [x] Đã commit bộ nhãn trước khi đối chiếu (commit `499c9f3`).

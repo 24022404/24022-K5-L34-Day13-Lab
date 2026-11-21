@@ -25,12 +25,12 @@ Nhóm xây dựng hồ sơ launch v0 cho trợ lý hoàn phí LogiX-VN để đ�
 
 ## 4. Kết quả
 
-- Chi phí mỗi việc thành công và so sánh với nhân viên tự làm: **[CHỜ KẾT QUẢ ĐÃ KIỂM TRA TỪ NGƯỜI 1]**.
-- Ba yếu tố nhạy nhất: **[CHỜ BẢNG B1-B2 ĐÃ KIỂM TRA]**.
-- Phạm vi pilot, cách chia và đánh đổi về cỡ mẫu: **[CHỜ `pilot_plan.yaml` HOÀN THIỆN]**.
-- Chỉ số chính, chỉ số sử dụng và chỉ số an toàn: **[CHỜ `chi_so.md` HOÀN THIỆN]**.
-- Đồng thuận giữa hai bộ nhãn: **[CHỜ NGƯỜI 2 ĐỐI CHIẾU, YÊU CẦU TỐI THIỂU 16/20]**.
-- Đề xuất cuối: **[CHỜ `ho_so_launch_v0.md`: Go / Go có điều kiện / No-go]**.
+- Chi phí: 4.472 đ/việc thành công; cả hệ thống 5.865 đ/yêu cầu, bằng 0,49 lần nhân viên tự làm [simulated]. Trong phạm vi nội địa và hàng nặng, cộng cố định tại 45.000 yêu cầu/tháng: 4.599 đ/việc thành công [simulated].
+- Ba yếu tố nhạy nhất: làm lại gấp đôi tăng 51,8%; xem lại gấp đôi tăng 40,7%; lương tăng 25% làm chi phí tăng 23,1% [simulated]. Xem lại 100% tốn 11.743–12.415 đ/việc, bằng 0,98–1,03 lần nhân viên tự làm [simulated].
+- Pilot chỉ gồm `noi_dia` và `hang_nang`, chia 20 nhân viên trợ lý và 20 đối chứng. Chọn mức chênh 6 điểm, cần 859 yêu cầu hiệu dụng/nhóm và ít nhất 299 yêu cầu/người (DE 6,96); nếu tác động thật chỉ 5 điểm thì power khoảng 0,64.
+- Chỉ số trong đợt chạy thử: chính 82,83% (994/1.200); bỏ qua gợi ý 27,12% (48/177); mở lại 7 ngày 4,25% (51/1.200). Đây là số quan sát, chưa chứng minh mức cải thiện do trợ lý.
+- Hai bộ nhãn đã commit trùng 18/20 ca = 90%; khác ca 8 và 13. Đây là mức trùng ban đầu; Người 2 còn phải ghi quy tắc phân biệt, nhãn thống nhất và bảng khắc phục vào `bang_loi.md`.
+- Hồ sơ launch đề xuất **Go có điều kiện** cho pilot: ký chấp nhận đánh đổi cỡ mẫu, bật event đo thời gian thật, giảm xem lại theo bậc, loại hai loại yêu cầu ngoài phạm vi và sửa lỗi hệ thống trước 2026-12-14; quyết định pilot vào 2027-01-15. Mục lỗi hiện còn trạng thái chưa hoàn tất.
 - Kết quả duyệt chéo nhận từ hội đồng: **[CHỜ PHIÊN GATE 2a]**.
 
 
@@ -39,6 +39,7 @@ Nhóm xây dựng hồ sơ launch v0 cho trợ lý hoàn phí LogiX-VN để đ�
 - Ba thành viên kiêm nhiệm nhiều vai trò. Nhóm tách file và nhánh để giảm xung đột, đồng thời giữ hai bộ nhãn độc lập.
 - Thời gian xem lại và làm lại là giả lập; nhóm ghi nhãn `simulated` và yêu cầu pilot đo thời gian thực.
 - Số cụm hạn chế độ nhạy; nhóm tính cỡ mẫu hiệu dụng và ghi rõ đánh đổi trước khi chọn phương án.
+- Máy Người 3 chưa cài Python (`python` không nhận diện; `py -0p` báo không có runtime). Đã đối chiếu CSV bằng PowerShell: 978 việc thành công, tổng chi phí 4.373.585 đ [simulated] và ba phân số chỉ số khớp báo cáo; chưa xác nhận chạy code trên máy thứ hai.
 
 ## 6. Tổng hợp đóng góp
 
